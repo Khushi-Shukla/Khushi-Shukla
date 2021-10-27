@@ -3,8 +3,8 @@
 ## :chart: Stats
 
 <div align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=khushi-shukla&show_icons=true&hide_border=false&count_private=true&theme=react" alt="Khushi Shukla's GitHub Stats">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=react" alt="Khushi Shukla's GitHub Language Stats">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=khushi-shukla&show_icons=true&hide_border=false&count_private=true&theme=react" alt="Khushi Shukla's GitHub Stats">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=react" alt="Khushi Shukla's GitHub Language Stats">
 </div>
 
 ## :computer: Activity
