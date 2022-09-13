@@ -20,7 +20,7 @@ const khushi = {
     pronouns: "She" | "Her",
     code: ["Javascript", "C++", "Java"],
     technologies: [React, Mui, Express, mySQL],
-    architecture: ["Single page applications"],
+    architecture: ["Single page applications"]
 };
 ```
 
