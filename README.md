@@ -20,7 +20,7 @@ const khushi = {
     technologies: [React, Mui, Express, mySQL],
     architecture: ["Single page applications"]
 };
-```
+```  
 
 ## :chart: Stats
 
