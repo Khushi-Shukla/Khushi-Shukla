@@ -1,4 +1,4 @@
-<!--### Hi there 👋-->
+<!--### Hi there !👋-->
 <h2> Hi, I'm Khushi Shukla! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 👇 Type this in your terminal to connect with me.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
