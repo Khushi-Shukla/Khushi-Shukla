@@ -6,6 +6,7 @@
 ```bash
 npx khushi
 ```
+
 **👆 This command line tool can be found at [npx khushi](https://github.com/Khushi-Shukla/npx-khushi)**
 
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="80" />  -->
