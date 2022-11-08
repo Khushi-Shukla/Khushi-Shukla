@@ -23,7 +23,6 @@ const khushi = {
 };
 ```  
 
-
 ## :chart: Stats
 
 <div align="center">
